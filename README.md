@@ -8,7 +8,7 @@ Lecturer of CPE.RSU
 
 * 🌍  I'm based in กรุงเทพมหานคร
 * 🖥️  See my portfolio at [XI\_XVI](http://XI_XVI)
-* ✉️  You can contact me at [Kanyalak.p67@rus.ac.th](mailto:Kanyalak.p67@rus.ac.th)
+* ✉️  You can contact me at [Kanyarakphongpala@gmail.com](mailto:Kanyarakphongpala@gmail.com)
 * 🚀  I'm currently working on [RSU](http://RSU)
 * 🧠  I'm learning กำลังสนใจ JS
 * 🤝  I'm open to collaborating on สนใจโครงงานในค่าย artificial intelligence
